@@ -1,0 +1,13 @@
+#chart {
+  border: 1px solid grey;
+}
+
+.bar {
+  fill: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar-label {
+  text-anchor: end;
+  fill: white;
+}
